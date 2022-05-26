@@ -1,0 +1,2 @@
+real_token = "t.sLJXnohg9AGK8CCtN1ChWsdtuzIGW86qUHssb4NnFr7KLO5GHwMy2UZHWbArFIrq6DelpjL4c8cul30H5zDZVg"
+sandbox_token = "t.NY9yWmdIx32Fynnsp1RxGvCojpzGcy-m9FGV1w0EqigCMFT3grO4Q5LuYP1GN_6SVm_7L__4mZFyFeNHGQLZSA"
